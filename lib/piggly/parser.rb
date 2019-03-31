@@ -52,7 +52,7 @@ module Piggly
 
       def load_support
         require "treetop"
-        require "piggly/parser/treetop_ruby19_patch"
+#        require "piggly/parser/treetop_ruby19_patch"
         require "piggly/parser/nodes"
       end
     end
