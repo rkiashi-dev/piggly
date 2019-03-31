@@ -1,0 +1,6 @@
+piggly:
+  adapter: postgresql
+  database: postgres
+  username: postgres
+  password: password
+  host: 172.17.0.2
